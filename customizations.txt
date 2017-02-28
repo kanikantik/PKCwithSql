@@ -1,0 +1,12 @@
+Hi !! Below are the options you chose
+Database:SQL Server
+Dependency Injection: Unity
+Test Framework: MSTest
+Mock Framework: Moq
+SPA: No
+UI: None
+Authentication: Forms
+Logging: NLog
+CDN: Yes
+Profiling: MiniProfiler
+Insights: NewRelic
